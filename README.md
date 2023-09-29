@@ -19,7 +19,7 @@
 
 3. Add algorithms in the desired algorithm in the specified folder (create new folders as per your requirement). Anything goes, from android to ML to anything you like.
    
-4. Send a [Pull request](https://github.com/puruagarwal1/hacktoberfest-2022-directory/pulls)
+4. Send a [Pull request](https://github.com/puruagarwal1/python_dir)
 
 5. I'll take a look at the change and then merge them with the master branch.
 
