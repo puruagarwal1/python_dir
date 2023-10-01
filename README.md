@@ -1,6 +1,6 @@
 # Hacktoberfest 2023
 
-![image](https://pbs.twimg.com/profile_banners/1040669393255055360/1662652901/1500x500)
+![image](https://www.bing.com/images/search?view=detailV2&ccid=L08nqV86&id=E113E1733258CB3F3A8E2B8FC090F4C0374F34B5&thid=OIP.L08nqV86W-zK1SkgtEuXYgHaD5&mediaurl=https%3a%2f%2fblog-appflowy.ghost.io%2fcontent%2fimages%2f2022%2f09%2fimage-2.png&exph=1004&expw=1910&q=hacktoberfest&simid=608054643944478859&FORM=IRPRST&ck=ABE7272E10F24500A24BA52C86564F4F&selectedIndex=14)
 <div align="center">
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/puruagarwal1/hacktoberfest-2022-directory) 
