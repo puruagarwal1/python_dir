@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/puruagarwal1/hacktoberfest-2022-directory) 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/puruagarwal1/hacktoberfest-2022-directory) 
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3)](https://github.com/puruagarwal1/hacktoberfest-2022-directory)
-[![Hacktoberfest-23](https://img.shields.io/static/v1.svg?label=Hacktoberfest-21&message=accepted&color=red)](https://github.com/puruagarwal1/hacktoberfest-2022-directory)
+[![Hacktoberfest-23](https://img.shields.io/static/v1.svg?label=Hacktoberfest-23&message=accepted&color=red)](https://github.com/puruagarwal1/python_dir)
 </div>
 
 # 📌Steps to contribute.
