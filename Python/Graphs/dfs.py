@@ -16,7 +16,7 @@ class Graph:
 
 		# Mark the current node as visited and print it
 		visited[v]= True
-		print v,
+		print(v)
 
 		# Recur for all the vertices adjacent to
 		# this vertex
@@ -52,5 +52,5 @@ if __name__ == '__main__':
 	g.addEdge(2, 3)
 	g.addEdge(3, 3)
 	
-	print "Following is Depth First Traversal"
+	print("Following is Depth First Traversal")
 	g.DFS()
