@@ -18,5 +18,5 @@ for i in range(len(A)):
 
 # Driver code to test above
 print ("Sorted array")
-for i in range(len(A)):
-	print("%d" %A[i],end=" , ")
+sorted_array = ', '.join([str(i) for i in A])
+print(sorted_array)
